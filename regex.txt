@@ -1,0 +1,11 @@
+// Expresiones regulares del Problema 1 del Laboratorio 2
+// Las lineas vacias y las que inician con doble barra se ignoran
+(a|t)c
+(a|b)*
+(a*|b*)*
+((ε|a)|b*)*
+(a|b)*abb(a|b)*
+0?(1?)?0*
+if\([ae]+\)\{[ei]+\}(\n(else\{[jl]+}))?
+[ae03]+@[ae03]+.(com|net|org)(.(gt|cr|co))?
+(a|b)*abb

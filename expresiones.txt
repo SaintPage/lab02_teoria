@@ -1,0 +1,11 @@
+# Expresiones del Laboratorio 2 - Problema 2
+# Las lineas que inician con '#' y las vacias se ignoran.
+a(a|b)*b+a?
+A(a|b)bB*[az]b]
+(a*b*c*d*(a|e|i|o|u))e*f*g*h)1,2
+[aZ].com5,30
+([[az][AZ]](((((.|;)|;)|.)|.)|.)10,20)*+
+[(a|b)*]{x}
+0?(1?)?0*
+
+
