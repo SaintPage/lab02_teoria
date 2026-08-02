@@ -82,7 +82,7 @@ python3 shunting_yard.py regex.txt
 
 Una expresión por línea. Líneas vacías o que empiezan con `//` se ignoran.
 
-Link al primer vídeo: https://youtu.be/XnEgIjlt2cw (Segundo problema)
-Link al segundo vídeo https://youtu.be/bpVJA5jBvd4 (tercer problema)
+- Link al primer vídeo: https://youtu.be/XnEgIjlt2cw (Segundo problema).
+- Link al segundo vídeo https://youtu.be/bpVJA5jBvd4 (tercer problema).
 
 
