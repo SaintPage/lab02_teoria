@@ -16,10 +16,10 @@ reciente.
 
 ## Ejecución
 
-```bash
+
 python3 balanceador.py expresiones.txt
 python3 balanceador.py expresiones.txt --todos   # muestra todos los caracteres
-```
+
 
 Una expresión por línea en el archivo. Las líneas vacías o que empiezan con
 `#` se ignoran.
@@ -76,10 +76,13 @@ A?  ->  A | ε
 
 ## Ejecución
 
-```bash
+
 python3 shunting_yard.py regex.txt
-```
+
 
 Una expresión por línea. Líneas vacías o que empiezan con `//` se ignoran.
+
+Link al primer vídeo: https://youtu.be/XnEgIjlt2cw (Segundo problema)
+Link al segundo vídeo https://youtu.be/bpVJA5jBvd4 (tercer problema)
 
 
